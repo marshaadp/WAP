@@ -1,3 +1,9 @@
+# TUGAS WAP 2 - PROFILE CLUB - 3 ITE 1 -
+
+Pada task ini saya membuat sebuah kartu identitas untuk fans club dari idol KPOP yaitu New Jeans dan jika menjadi member,
+maka akan mejadi seorang Bunnies (Sebutan untuk fans dari New Jeans)
+
+```html
 <!DOCTYPE html>
 <html>
 
@@ -172,3 +178,4 @@
     </video>
 
 </html>
+```
